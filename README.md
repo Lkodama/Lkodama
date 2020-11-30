@@ -6,7 +6,7 @@ I'm a **Senior Software Developer** from Brazil 🇧🇷
 
 +5 years of experience developing software with high standards and interacting with multiple stakeholders from technical and non-technical backgrounds, ensuring clarity, quality, and continuous delivery of a wide range of applications
 
-- 🌱 I’m currently learning **ReactJs** *(fullstack wannabe)*
+- :coffee: I'm a coffee addict 
 - :guitar: I play guitar
 - :cat: I have two lovely cats
 
@@ -29,3 +29,5 @@ I'm a **Senior Software Developer** from Brazil 🇧🇷
 ![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon&logoColor=FFA500)
 ![Docker](http://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=03f4fc)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=03fc80)
+![React](http://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
+![VueJs](http://img.shields.io/badge/-VueJs-222222?style=flat&logo=v&logoColor=03fc80)
